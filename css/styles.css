@@ -1,0 +1,32 @@
+body 
+{
+	font-family:Segoe UI;
+}
+
+#blk_guess
+{
+	border:6px solid gray;
+	width:50%;
+	height:200px;
+	margin-left:250px;
+	padding:10px;
+}
+
+.hidden
+{
+	display:none;
+}
+
+#win 
+{
+	background-color:green;
+	color:white;
+	padding:2px;
+}
+
+#lose
+{
+	background-color:red;
+	color:white;
+	padding:2px;
+}
